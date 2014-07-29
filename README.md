@@ -4,7 +4,7 @@ ElixirConf 2014 Speaker Presentations
 Friday
 ------
 
-* Dave Thomas
+* [Dave Thomas](https://www.dropbox.com/sh/aw3sl4jabwzd1nk/AADZygogLFN17hWUHN6YtJdBa)
 * [Richard Bishop @rbondev](https://speakerdeck.com/rbishop/the-first-few-sips)
 * [Josh Adams @knewter](https://docs.google.com/a/relyworks.com/presentation/d/1PqyURkQuxSGdMmdb-Y8p-P1lsW_4CV9z6Kg8RsHXf2g/edit#slide=id.p)
 * [Eric Meadows-Jönsson (PDF)](https://www.dropbox.com/s/c90dtwhngsutvo9/hex.pdf)
@@ -22,7 +22,7 @@ Saturday
 * Devin Torres
 * Bruce Tate
 * [Martin Schurrer  @MSch](https://speakerdeck.com/msch/game-servers-in-otp)
-* Chris McCord
+* [Chris McCord](http://slides.com/chrismccord/rise-of-the-phoenix/)
 
 Summary
 -------
