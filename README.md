@@ -9,6 +9,5 @@ Overview
 * [Richard Bishop @rbondev](https://speakerdeck.com/rbishop/the-first-few-sips)
 * [Martin Schurrer  @MSch](https://speakerdeck.com/msch/game-servers-in-otp)
 * [Robert Virding]()
-* [Francesco Cesarini](/)
-
+* [Francesco Cesarini](francesco/Thinking-Functional-OSCON.ppt.pdf)
 
