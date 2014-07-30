@@ -19,7 +19,7 @@ Saturday
 * José Valim
 * Robert Virding
 * [Francesco Cesarini (PDF)](francesco/Thinking-Functional-OSCON.ppt.pdf)
-* Devin Torres
+* [Devin Torres](torres/excitement.pdf)
 * Bruce Tate
 * [Martin Schurrer  @MSch](https://speakerdeck.com/msch/game-servers-in-otp)
 * [Chris McCord](http://slides.com/chrismccord/rise-of-the-phoenix/)
