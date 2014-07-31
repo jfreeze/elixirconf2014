@@ -16,7 +16,7 @@ Friday
 Saturday
 --------
 
-* José Valim
+* [José Valim](valim/2014.07.26-Elixir-Past-Future-Elixirconf.pdf)
 * Robert Virding
 * [Francesco Cesarini (PDF)](francesco/Thinking-Functional-OSCON.ppt.pdf)
 * [Devin Torres](torres/excitement.pdf)
