@@ -10,7 +10,7 @@ Friday
 * [Eric Meadows-Jönsson (PDF)](https://www.dropbox.com/s/c90dtwhngsutvo9/hex.pdf)
 * [James Smith @st23am](https://speakerdeck.com/st23am/writing-command-line-applications-in-elixir)
 * [Greg Vaughn](http://www.slideshare.net/GregVaughn/elixir-elevated?utm_campaign=ss_search&utm_medium=default&utm_source=1&qid=da2e4252-d5d1-4723-afc7-08cac4c7bfc7&v=default&b=&from_search=1)
-* [Filipe Varjão](https://github.com/jucimarjr/ooerlang)
+* [Filipe Varjão](filipe/APerformanceEvaluationOfElixir.pdf)
 * [Stephen Pallen](pallen/ElixirConf-Pallen.pdf)
 
 Saturday
